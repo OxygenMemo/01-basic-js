@@ -1,4 +1,4 @@
 function hello(name) {
   return `hello ${name}`;
 }
-console.log("");
+console.log(hello("gun"));
